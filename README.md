@@ -38,14 +38,14 @@ composer run dev
 
 ### Изображения приложения
 
-[Изображение](https://github.com/Xiroke/BukvoezkaLaravelReact/raw/master/docs/img/1.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/2.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/3.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/4.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/5.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/6.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/7.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/8.png)
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/9.png)
+![Изображение](https://github.com/Xiroke/BukvoezkaLaravelReact/raw/master/docs/img/1.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/2.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/3.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/4.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/5.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/6.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/7.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/8.png)
+![Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/9.png)
 
 
