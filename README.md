@@ -38,7 +38,7 @@ composer run dev
 
 ### Изображения приложения
 
-[Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/1.png)
+[Изображение](https://github.com/Xiroke/BukvoezkaLaravelReact/raw/master/docs/img/1.png)
 [Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/2.png)
 [Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/3.png)
 [Изображение](https://raw.githubusercontent.com/Xiroke/BukvoezkaLaravelReact/refs/heads/master/docs/img/4.png)
