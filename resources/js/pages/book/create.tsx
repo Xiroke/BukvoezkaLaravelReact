@@ -12,6 +12,7 @@ import Layout from '@/layouts/auth-layout';
 import { BookForm, bindingEnum, qualityEnum, qualityType, typeBindingType } from '@/types/index.d';
 
 export default function CreateBook() {
+    // создание книги
     const { data, setData, post, processing, errors } = useForm<BookForm>({
         title: '',
         author: '',

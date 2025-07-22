@@ -12,6 +12,7 @@ const breadcrumbs: BreadcrumbItem[] = [
 ];
 
 export default function Dashboard({ books }: { books: BookType[] | undefined }) {
+    // страница профиля
     const my_book_filtered = books?.filter((book) => !!book.is_my_book === true && !!book.is_valid === true);
     const want_get_filtered = books?.filter((book) => !!book.is_my_book === false && !!book.is_valid === true);
     const no_checked_filtered = books?.filter((book) => book.is_valid === null);

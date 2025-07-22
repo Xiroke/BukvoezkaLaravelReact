@@ -21,6 +21,7 @@ type PaginatedBookProps = {
 };
 
 export default function Review({ books }: { books: PaginatedBookProps | undefined }) {
+    // проверка
     return (
         <AppLayout breadcrumbs={breadcrumbs}>
             <Head title="Мой профиль" />
@@ -37,4 +38,3 @@ export default function Review({ books }: { books: PaginatedBookProps | undefine
         </AppLayout>
     );
 }
-1;

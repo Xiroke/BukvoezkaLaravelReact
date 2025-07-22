@@ -15,7 +15,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // User::factory(10)->create();
+        // создание админа
         $admin = User::factory()->create([
             'name' => 'admin',
             'email'=> 'admin@example.com',
@@ -23,12 +23,12 @@ class DatabaseSeeder extends Seeder
         ]);
         $admin->is_admin = true;
         $admin->save();
-
+        // создание простого пользователя
         $user = User::factory()->create([
             'name' => 'test',
             'email' => 'test@example.com',
         ]);
-
+        // создание карточек книг
         BookCard::factory()->count(20)->create([
             'user_id' => $user->id,
         ]);
